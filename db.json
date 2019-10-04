@@ -1,5 +1,5 @@
 {
-    "posts": [
+    "apps": [
       { "id": 1, "name": "App 1", "description": "Description 1" },
       { "id": 2, "name": "App 2", "description": "Description 2" },
       { "id": 3, "name": "App 3", "description": "Description 3" }
